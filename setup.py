@@ -132,7 +132,9 @@ setup(
                                           'pyqtgraph>=0.10',
                                           'PyYAML',
                                           'quamash==0.6.1',
-                                          'qtm>=2.0.2'],
+                                          'qtm>=2.0.2',
+                                          'PyQt5==5.15.6',
+                                          'pysdl2-dll==2.0.20'],
 
     # List of dev and qt dependencies
     # Pyqt5 5.9.2 seems to be the last version to work on Windows 8.1
